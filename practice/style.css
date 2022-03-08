@@ -1,0 +1,13 @@
+.form
+{
+    border: 10px solid black;
+    max-width: 800px;
+    height:600px ;
+    margin: 0 auto;
+    padding: 25px;
+    /* background-image: url('photo.jpeg'); */
+}
+.container{
+    border:10px solid gray;
+    max-width: 800px;;
+}
